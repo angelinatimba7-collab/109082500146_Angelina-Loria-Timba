@@ -139,6 +139,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/output/soalsatu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul2.go/output/soaltiga.png)
 [Programnya  menghitung biaya pengiriman berdasarkan berat parsel dalam gram. Berat diubah ke kilogram dan sisa gram, lalu biaya dihitung sesuai aturan dan ditampilkan totalnya.]
 
