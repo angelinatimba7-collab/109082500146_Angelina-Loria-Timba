@@ -44,7 +44,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
 [Bikin fungsi faktorial dulu, terus pakai buat hitung permutasi (perm) sama kombinasi (comb). Di main tinggal masukin angka terus print hasilnya. Simple, langsung kelihatan berapa banyak cara atau kombinasi yang mungkin.]
 
 
