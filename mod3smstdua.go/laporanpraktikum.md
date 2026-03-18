@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 3 - ... </h1>
 <p align="center">[Angelina Loria Timba] - [109082500146]</p>
 
 ## Unguided 
