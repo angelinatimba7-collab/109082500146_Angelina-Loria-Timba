@@ -84,7 +84,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
 [Bikin fungsi dasar f, g, h, terus bikin versi komposisinya sesuai soal (f∘g∘h, dll). Input dimasukin, fungsi dipanggil, hasilnya keluar langsung. Gampang dimengerti karena tinggal ngikutin urutan fungsi.]
 
 ## Unguided 
