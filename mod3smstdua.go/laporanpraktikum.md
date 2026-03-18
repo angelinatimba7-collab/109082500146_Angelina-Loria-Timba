@@ -140,5 +140,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
 [Bikin fungsi buat hitung jarak titik dan ngecek apakah titik itu ada di dalam lingkaran. Di main scan data lingkaran + titik, terus tinggal switch kondisi biar tahu titik ada di lingkaran 1, 2, keduanya, atau di luar.]
