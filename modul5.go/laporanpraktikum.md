@@ -34,7 +34,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul5.go/output/tuw.png)
 [Program ini dipakai buat nampilin deret Fibonacci pakai cara rekursif. Jadi fungsi fib bakal manggil dirinya sendiri buat dapetin nilai berikutnya berdasarkan dua angka sebelumnya. User masukin berapa banyak suku yang mau ditampilin, terus program bakal looping dari 0 sampai n dan nampilin hasilnya satu per satu. Ada kondisi berhenti di n = 0 dan n = 1 biar rekursinya ga jalan terus.]
 
 
