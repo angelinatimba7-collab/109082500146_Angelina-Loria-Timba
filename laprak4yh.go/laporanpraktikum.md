@@ -122,5 +122,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/laprak4yh.go/output/dua.png)
 [2. Program ini kayak ngecek siapa yang menang lomba coding. Setiap orang punya waktu ngerjain 8 soal, dan kalau waktunya lebih dari 300 menit berarti dianggap gagal. Program bakal hitung berapa soal yang berhasil dikerjain dan total waktunya, lalu dibandingin sama peserta lain. Yang ngerjain soal paling banyak bakal menang, tapi kalau jumlahnya sama, yang waktunya paling cepat yang menang.]
