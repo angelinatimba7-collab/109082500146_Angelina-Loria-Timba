@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 3 - ... </h1>
 <p align="center">[Angelina Loria Timba] - [109082500146]</p>
 
 ## Unguided 
@@ -44,7 +44,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
 [Bikin fungsi faktorial dulu, terus pakai buat hitung permutasi (perm) sama kombinasi (comb). Di main tinggal masukin angka terus print hasilnya. Simple, langsung kelihatan berapa banyak cara atau kombinasi yang mungkin.]
 
 
@@ -84,7 +84,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
 [Bikin fungsi dasar f, g, h, terus bikin versi komposisinya sesuai soal (f∘g∘h, dll). Input dimasukin, fungsi dipanggil, hasilnya keluar langsung. Gampang dimengerti karena tinggal ngikutin urutan fungsi.]
 
 ## Unguided 
@@ -140,5 +140,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
 [Bikin fungsi buat hitung jarak titik dan ngecek apakah titik itu ada di dalam lingkaran. Di main scan data lingkaran + titik, terus tinggal switch kondisi biar tahu titik ada di lingkaran 1, 2, keduanya, atau di luar.]
