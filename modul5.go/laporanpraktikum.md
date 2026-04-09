@@ -72,7 +72,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul5.go/output/wa.png)
 [Program ini buat nampilin pola bintang naik ke bawah (segitiga) pakai rekursi. Jadi awalnya mulai dari 1 bintang, terus tiap baris nambah satu sampai sesuai angka yang dimasukin user. Fungsi bintang bakal dipanggil terus dengan nilai i yang bertambah sampai lebih dari n. Jadi prosesnya kayak bertahap gitu, dari sedikit bintang sampai banyak.]
 
 ## Unguided 
