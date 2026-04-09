@@ -47,7 +47,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina_Loria_Timba/blob/main/mod3smstdua/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/laprak4yh.go/output/satu.png)
 [Program ini intinya buat ngitung dua hal dari angka yang kita masukin, yaitu permutasi dan kombinasi. Dia punya fungsi buat faktorial dulu (perkalian dari 1 sampai n), karena dua rumus itu butuh faktorial. Setelah itu, program tinggal masukin angka ke rumus permutasi dan kombinasi, lalu hasilnya ditampilkan dalam dua baris sesuai pasangan angka yang diminta..]
 
 
