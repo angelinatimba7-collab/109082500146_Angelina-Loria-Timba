@@ -109,5 +109,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul5.go/output/ga.png)
 [Program ini dipakai buat nyari faktor dari suatu bilangan. Cara kerjanya ngecek dari angka 1 sampai n, terus kalau angka itu bisa ngebagi n tanpa sisa, berarti dia faktor dan bakal ditampilin. Semua dicek pakai rekursi, jadi fungsi bakal manggil dirinya sendiri sampai semua angka selesai dicek. Hasilnya nanti muncul faktor-faktor dari kecil ke besar.]
