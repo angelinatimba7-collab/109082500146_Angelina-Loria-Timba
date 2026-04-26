@@ -236,5 +236,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/empath.png)
 [Program ini memproses sekumpulan karakter dalam array untuk membalikkan urutan isinya dan memeriksa apakah susunan tersebut membentuk palindrom. Proses input karakter akan berhenti jika pengguna memasukkan karakter titik atau kapasitas array sudah penuh.]
