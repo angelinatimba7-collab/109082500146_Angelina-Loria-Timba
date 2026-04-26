@@ -56,7 +56,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/satuh.png)
 [Program ini menentukan posisi sebuah titik terhadap dua lingkaran menggunakan tipe bentukan (struct) titik dan lingkaran. Penentuan posisi dilakukan dengan menghitung jarak titik ke pusat lingkaran menggunakan rumus Euclidean.]
 
 
