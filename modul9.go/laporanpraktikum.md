@@ -115,7 +115,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/duah.png)
 [ Program ini mengelola sekumpulan bilangan bulat dalam array untuk menampilkan data berdasarkan indeks ganjil, genap, atau kelipatan tertentu. Selain itu, program juga menghitung nilai statistik seperti rata-rata, standar deviasi, dan frekuensi kemunculan angka.]
 
 ## Unguided 
