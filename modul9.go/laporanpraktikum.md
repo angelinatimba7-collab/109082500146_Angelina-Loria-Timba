@@ -166,7 +166,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/tigah.png)
 [Program ini merekap hasil pertandingan bola dengan menyimpan nama klub yang menang ke dalam sebuah array. Proses input data skor akan terus berjalan dan baru akan berhenti jika pengguna memasukkan angka negatif.]
 
 ## Unguided 
