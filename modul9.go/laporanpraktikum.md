@@ -56,7 +56,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/satuh.png)
 [Program ini menentukan posisi sebuah titik terhadap dua lingkaran menggunakan tipe bentukan (struct) titik dan lingkaran. Penentuan posisi dilakukan dengan menghitung jarak titik ke pusat lingkaran menggunakan rumus Euclidean.]
 
 
@@ -115,7 +115,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/duah.png)
 [ Program ini mengelola sekumpulan bilangan bulat dalam array untuk menampilkan data berdasarkan indeks ganjil, genap, atau kelipatan tertentu. Selain itu, program juga menghitung nilai statistik seperti rata-rata, standar deviasi, dan frekuensi kemunculan angka.]
 
 ## Unguided 
@@ -166,7 +166,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/tigah.png)
 [Program ini merekap hasil pertandingan bola dengan menyimpan nama klub yang menang ke dalam sebuah array. Proses input data skor akan terus berjalan dan baru akan berhenti jika pengguna memasukkan angka negatif.]
 
 ## Unguided 
@@ -236,5 +236,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul9.go/output/empath.png)
 [Program ini memproses sekumpulan karakter dalam array untuk membalikkan urutan isinya dan memeriksa apakah susunan tersebut membentuk palindrom. Proses input karakter akan berhenti jika pengguna memasukkan karakter titik atau kapasitas array sudah penuh.]
