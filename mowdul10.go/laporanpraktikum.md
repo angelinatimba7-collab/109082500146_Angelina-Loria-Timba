@@ -35,7 +35,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mowdul10.go/output/1.png)
 [Program ini menginisialisasi nilai minimum dan maksimum menggunakan elemen pertama yang dimasukkan oleh pengguna. Melalui sebuah perulangan, setiap input berat dibandingkan secara berurutan untuk memperbarui nilai terkecil dan terbesar.]
 
 
