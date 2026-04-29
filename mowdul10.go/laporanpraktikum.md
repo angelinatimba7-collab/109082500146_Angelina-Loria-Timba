@@ -77,7 +77,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mowdul10.go/output/2.png)
 [Program menggunakan perulangan bertingkat untuk menjumlahkan berat ikan ke dalam kelompok-kelompok sesuai kapasitas wadah y. Hasil penjumlahan setiap wadah dicetak di baris pertama, sementara baris kedua menampilkan hasil bagi antara total seluruh berat dengan jumlah wadah yang digunakan.]
 
 ## Unguided 
