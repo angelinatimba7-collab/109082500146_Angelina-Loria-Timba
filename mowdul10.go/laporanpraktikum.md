@@ -137,4 +137,4 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
-[Program ini mengimplementasikan prosedur hitungMinMax dengan parameter pointer untuk mengembalikan dua nilai sekaligus dan fungsi rerata untuk menghitung nilai rata-rata. Struktur kode ini memisahkan logika pengolahan data dari fungsi utama agar lebih terorganisir.]
+[Program ini mengimplementasikan prosedur hitungMinMax dengan parameter pointer untuk mengembalikan dua nilai sekaligus dan fungsi rerata untuk menghitung nilai rata-rata. Struktur kode ini memisahkan logika pengolahan data dari fungsi utama agar lebih terorganisir.] 
