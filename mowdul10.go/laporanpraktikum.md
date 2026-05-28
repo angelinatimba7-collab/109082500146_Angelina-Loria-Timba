@@ -35,7 +35,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/soalsatwu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mowdul10.go/output/1.png)
 [Program ini menginisialisasi nilai minimum dan maksimum menggunakan elemen pertama yang dimasukkan oleh pengguna. Melalui sebuah perulangan, setiap input berat dibandingkan secara berurutan untuk memperbarui nilai terkecil dan terbesar.]
 
 
@@ -77,7 +77,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/dwuwah.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mowdul10.go/output/2.png)
 [Program menggunakan perulangan bertingkat untuk menjumlahkan berat ikan ke dalam kelompok-kelompok sesuai kapasitas wadah y. Hasil penjumlahan setiap wadah dicetak di baris pertama, sementara baris kedua menampilkan hasil bagi antara total seluruh berat dengan jumlah wadah yang digunakan.]
 
 ## Unguided 
@@ -136,5 +136,10 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
+<<<<<<< HEAD
 ![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mod3smstdua.go/output/tigwawh.png)
 [Program ini mengimplementasikan prosedur hitungMinMax dengan parameter pointer untuk mengembalikan dua nilai sekaligus dan fungsi rerata untuk menghitung nilai rata-rata. Struktur kode ini memisahkan logika pengolahan data dari fungsi utama agar lebih terorganisir.] 
+=======
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/mowdul10.go/output/3.png)
+[Program ini mengimplementasikan prosedur hitungMinMax dengan parameter pointer untuk mengembalikan dua nilai sekaligus dan fungsi rerata untuk menghitung nilai rata-rata. Struktur kode ini memisahkan logika pengolahan data dari fungsi utama agar lebih terorganisir.]
+>>>>>>> b08396412a58768ff68cd98eec051a73fda59a4e
