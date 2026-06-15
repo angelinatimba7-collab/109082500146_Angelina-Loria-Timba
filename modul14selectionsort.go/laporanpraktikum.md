@@ -64,7 +64,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul2.go/output/soalsatu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul14selectionsort.go/output/nomorsatu.png)
 [Codingan ini dibuat untuk membantu Hercules menyusun nomor rumah kerabatnya agar lebih rapi dan mudah dikunjungi. Dengan algoritma Selection Sort, setiap nomor rumah diurutkan dari yang paling kecil hingga terbesar secara bertahap.]
 
 
@@ -174,7 +174,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul2.go/output/soaldua.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul14selectionsort.go/output/nomordua.png)
 [Saya membuat ini untuk mengatur nomor rumah berdasarkan sisi jalan agar Hercules tidak perlu sering menyeberang. Nomor ganjil akan ditampilkan lebih dulu secara menaik, kemudian dilanjutkan nomor genap secara menurun menggunakan proses Selection Sort.]
 
 ## Unguided 
