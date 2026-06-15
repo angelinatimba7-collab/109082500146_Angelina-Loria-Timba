@@ -185,5 +185,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul2.go/output/soaldua.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul14yg2.go/output/no2.jpeg)
 [Program pengelolaan perpustakaan ini dipecah ke dalam beberapa prosedur, persis mengikuti struktur struct dan subprogram yang diminta soal. Bagian intinya terletak pada prosedur UrutBuku yang mengimplementasikan Insertion Sort secara mengecil (descending) berdasarkan rating, dan fungsi pencarian CariBuku yang menggunakan pola Binary Search untuk menemukan buku.]
