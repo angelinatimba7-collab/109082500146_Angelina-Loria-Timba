@@ -68,7 +68,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul2.go/output/soalsatu.png)
+![Screenshot Output Unguided 1_1](https://github.com/angelinatimba7-collab/109082500146_Angelina-Loria-Timba/blob/main/modul14yg2.go/output/no1.jpeg)
 [Kode ini membaca serangkaian angka hingga mendapati bilangan negatif, lalu menyisipkan hanya angka-angka positif ke dalam array untuk diurutkan dengan Insertion Sort. Setelah data urut, program akan melakukan iterasi untuk mengecek apakah selisih (jarak) antar elemen yang bersebelahan selalu konstan atau tidak.]
 
 
